@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming related to the handling of `NA` (Not Available) values during calculations. The `bug.R` file contains code that incorrectly handles `NA` values, leading to an unexpected `NA` result. The corrected code in `bugSolution.R` shows how to properly address this issue using the `na.rm` argument in the `mean()` function.
